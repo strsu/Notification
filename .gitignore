@@ -169,3 +169,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#postgress
+.pgdata/
+
+# static, media, log
+static/
+media/
+log/

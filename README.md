@@ -1,2 +1,2 @@
-# Notification
-알림 서버 - email, slack 등
+# notification-hub-backend
+알림 서비스 백엔드
